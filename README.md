@@ -17,7 +17,7 @@ This is my personal portfolio website, designed to showcase my projects, skills,
 - Clean, minimal UI
 
 ## 📌 Live Demo
-[View Portfolio Website](https://your-username.github.io/personal-portfolio/)  
+[View Portfolio Website](https://github.com/vamsikrishnavetsa/personal-portfolio/)  
 *(Replace with your actual GitHub Pages link)*
 
 ## 📁 Folder Structure
