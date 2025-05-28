@@ -28,6 +28,6 @@ This is my personal portfolio website, designed to showcase my projects, skills,
 ![ss-4](https://github.com/user-attachments/assets/0ab17a00-e430-4752-8e12-4f29cdfdc908)
 ![ss-2](https://github.com/user-attachments/assets/91465918-2907-48b8-b547-bfd7544e1ee3)
 ![ss-3](https://github.com/user-attachments/assets/31c94f83-e6c5-4e97-b0bf-406e9165c1fc)
-![ss-5](https://github.com/user-attachments/assets/f28e44b1-be28-4cd5-9b13-4abe1fc1be6c)
+![ss-5](https://github.com/user-attachments/assets/af9d20a5-7e4a-439e-a116-2860119ba4a4)
 
 
