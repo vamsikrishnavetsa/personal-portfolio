@@ -21,8 +21,9 @@ This is my personal portfolio website, designed to showcase my projects, skills,
 *(Replace with your actual GitHub Pages link)*
 
 ## 📁 Folder Structure
-/public
-└── images/
-src/
+└── images
 └── index.html
 └── script.js
+![ss-5](https://github.com/user-attachments/assets/f28e44b1-be28-4cd5-9b13-4abe1fc1be6c)
+
+
