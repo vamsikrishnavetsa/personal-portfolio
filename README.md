@@ -24,6 +24,10 @@ This is my personal portfolio website, designed to showcase my projects, skills,
 └── images
 └── index.html
 └── script.js
+![ss-1 (1)](https://github.com/user-attachments/assets/9e85f47c-e1e5-49ea-9a10-117cda7a060a)
+![ss-4](https://github.com/user-attachments/assets/0ab17a00-e430-4752-8e12-4f29cdfdc908)
+![ss-2](https://github.com/user-attachments/assets/91465918-2907-48b8-b547-bfd7544e1ee3)
+![ss-3](https://github.com/user-attachments/assets/31c94f83-e6c5-4e97-b0bf-406e9165c1fc)
 ![ss-5](https://github.com/user-attachments/assets/f28e44b1-be28-4cd5-9b13-4abe1fc1be6c)
 
 
